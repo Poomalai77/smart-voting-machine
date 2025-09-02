@@ -1,1 +1,3 @@
 flask
+qrcode
+opencv-python
