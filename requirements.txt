@@ -1,5 +1,5 @@
-flask
-qrcode
-opencv-python
+Flask>=2.0
 gunicorn
+numpy
+opencv-python-headless
 mediapipe
