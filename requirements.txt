@@ -1,5 +1,5 @@
-Flask>=2.0
-gunicorn
-numpy
-opencv-python-headless
-mediapipe
+Flask==3.0.3
+gunicorn==21.2.0
+numpy==1.26.4
+opencv-python-headless==4.8.0.76
+mediapipe==0.10.14
